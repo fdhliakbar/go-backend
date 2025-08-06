@@ -1,7 +1,7 @@
 # Go Backend - Proyek Pembelajaran Backend
 
 <div align="center">
-  <img src="./golang.jpeg" alt="Go Gopher" width="300"/>
+  <img src="./golang.jpeg" alt="Go Gopher" width="80%"/>
 </div>
 
 ## Deskripsi Proyek
