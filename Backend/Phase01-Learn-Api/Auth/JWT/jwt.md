@@ -1,4 +1,4 @@
-## JWT
+# JWT
 
 JSON Web Token, yang berarti token ini menggunakan JSON (Javascript Object Notation) berbentuk string panjang yang sangat random, lalu token ini memungkinkan kita untuk mengirimkan data yang dapat diverifikasi oleh dua pihak atau lebih.
 
@@ -43,7 +43,7 @@ Jika kita satukan semuanya
 
 Dan hasil ketiga bagian tersebut akan digabung dan otomatis di encode menjadi Token string random panjang seperti berikut
 
-<img src="https://i.ibb.co/xHKBcf5/jwt.png"alt="JWT Result Example" />
+<img src="./example.png" alt="JWT Result Example" />
 
 Jika isi Header atau Payload dirubah maka isi Signature menjadi tidak valid. Satu hal lagi JWT ini tidak tergantung sama bahasa program tertentu jadi kita bisa mengimplementasikan di Laravel Codeigniter Node JS dan yang lainnya. Sekian dan Terimakasih.
 
